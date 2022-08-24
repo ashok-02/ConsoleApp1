@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Today is Thrusday");
+            Console.WriteLine("Today is Thrusday,,,,,");
         }
     }
 }
